@@ -6,7 +6,7 @@ Web apps? Web3 apps? Algo trading? Side hustles? Let's get in touch!
 - 🌐 [progresak.com](https://progresak.cz/)
 
 ### 🔭 I’m currently working on
-- founded & creating[LocoLocate](https://locolocate.com/app) project - "leave the decision up to us".
+- founded & creating [LocoLocate.com](https://locolocate.com/app) project - "leave the decision up to us".
 - Web3 nft project with ERC721A custom contract
 
 <!--
